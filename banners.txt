@@ -1,0 +1,3 @@
+https://meusite.com/imagem1.jpg
+https://meusite.com/imagem2.png
+https://outrosite.com/banner_promocional.jpg
